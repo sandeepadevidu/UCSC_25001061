@@ -1,1 +1,2 @@
-
+hi
+UCSC GitHub Account and Repository Setup
